@@ -14,7 +14,7 @@
 
        $myCensore = str_replace($badword, '*****', $myText);
     ?>
-    <p>The lengrh of your text is: <?php echo strlen($myCensore)?></p>
+    <p>The length of your text is: <?php echo strlen($myCensore)?></p>
     <p><?php echo $myCensore?></p>
 </body>
 </html>
