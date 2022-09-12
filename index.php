@@ -9,7 +9,11 @@
 <body>
     <form action="page.php" method="post">
         <input type="text" placeholder="Type a word here...">
+<<<<<<< HEAD
         <button type="submit">Send</button>
+=======
+        <button type="subnit">Send</button>
+>>>>>>> f9718f90e40b417a6e821e258acf5bc07a60c36b
     </form>
 </body>
 </html>
