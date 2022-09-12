@@ -8,7 +8,7 @@
 </head>
 <body>
     <form action="page.php" method="post">
-        <input type="text" placeholder="Type a word here...">
+        <input type="text" placeholder="Type a word here..." name="badword">
         <button type="submit">Send</button>
     </form>
 </body>
